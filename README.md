@@ -1,3 +1,7 @@
+> **Nota importante:** este es un fork del trabajo realizado por Josh Johnson. Los contribuidores de este repositorio han realizado un breve análisis y propuesto un modelo de DNN alternativo partiendo de los hallazgos de esta investigación. Referirse al *notebook* [pfdc_reporte.ipynb]("./report/pfdc_reporte.ipynb") para ver dicha contribuición.
+
+==========
+
 # Predicting Student Success Using Virtual Learning Environment Interaction Statistics
 
 ![empty computer](figures/goran-ivos-empty-computer-unsplash.jpg)
